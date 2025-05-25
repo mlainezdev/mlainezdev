@@ -1,4 +1,3 @@
-## Hi there 👋
 <picture>
   <source srcset="https://res.cloudinary.com/dmydsvqhk/image/upload/v1748145712/banner_noche_bi2fky.png" media="(prefers-color-scheme: dark)">
   <source srcset="https://res.cloudinary.com/dmydsvqhk/image/upload/v1748145712/BANNER_DIA_pi3td7.png" media="(prefers-color-scheme: light)">
