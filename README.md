@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+<picture>
+  <source srcset="https://res.cloudinary.com/dmydsvqhk/image/upload/v1748145712/banner_noche_bi2fky.png" media="(prefers-color-scheme: dark)">
+  <source srcset="https://res.cloudinary.com/dmydsvqhk/image/upload/v1748145712/BANNER_DIA_pi3td7.png" media="(prefers-color-scheme: light)">
+  <img src="https://res.cloudinary.com/dmydsvqhk/image/upload/v1748145712/BANNER_DIA_pi3td7.png" alt="Banner de bienvenida">
+</picture>
 <!--
 **mlainezdev/mlainezdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
