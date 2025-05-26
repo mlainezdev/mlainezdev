@@ -34,9 +34,6 @@
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=mlainezdev&theme=github-compact" alt="Activity Graph" style="max-width:100%;height:auto;" width="450"/>
     </td>
     <td align="center">
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlainezdev&locale=es" alt="Top Langs" width="100%"/>
-      </p>
       <picture>
         <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mlainezdev&theme=radical&locale=es" media="(prefers-color-scheme: dark)" />
         <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mlainezdev&theme=default&locale=es" media="(prefers-color-scheme: light)" />
