@@ -34,7 +34,12 @@
 - ☁️ Experiencia básica en **Azure** y despliegue en la nube
 - 📦 Integración de servicios externos y **consumo de APIs de terceros**
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlainezdev&layout=compact)
 
+![mlainezdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=mlainezdev&show_icons=true&theme=radical)
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 <!--
 **mlainezdev/mlainezdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
