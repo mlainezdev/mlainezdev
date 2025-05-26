@@ -25,9 +25,24 @@
 
 ## 🎯 Intereses
 
-| Backend           | Desarrollo Web         | DevOps y Cloud            |
-|-------------------|-----------------------|---------------------------|
-| ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) <br> ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) <br> ![RESTful](https://img.shields.io/badge/RESTful-API-6DB33F?style=for-the-badge&logo=rest&logoColor=white) <br> ![Microservices](https://img.shields.io/badge/Microservices-Architecture-blueviolet?style=for-the-badge&logo=microgen&logoColor=white) <br> ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) <br> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) <br> ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) <br> ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white) <br> ![Cloud](https://img.shields.io/badge/Cloud-Computing-00C7B7?style=for-the-badge&logo=cloudflare&logoColor=white) <br> ![APIs](https://img.shields.io/badge/3rd%20Party%20APIs-Integration-FF9800?style=for-the-badge&logo=plug&logoColor=white) |
+<p align="center">
+  <!-- Backend y APIs -->
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/RESTful-API-6DB33F?style=for-the-badge&logo=rest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-Architecture-blueviolet?style=for-the-badge&logo=microgen&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <!-- Web -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <!-- DevOps & Cloud -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-Computing-00C7B7?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  
+</p>
 
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api?username=mlainezdev&theme=dark" media="(prefers-color-scheme: dark)" />
