@@ -10,22 +10,22 @@
     <img src="https://res.cloudinary.com/dmydsvqhk/image/upload/v1748219495/Areas_dia_Recorte_gkx19g.png" alt="Áreas de experiencia">
   </picture>
 
-<h2 align="center">📈 My GitHub Activity</h2>
+<h2 align="center">📈 My Actividad en GitHub</h2>
 
 <table width="100%" align = "center">
   <tr>
     <td align="center">
       <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api?username=mlainezdev&show_icons=true&theme=radical" media="(prefers-color-scheme: dark)" />
-        <source srcset="https://github-readme-stats.vercel.app/api?username=mlainezdev&show_icons=true&theme=default" media="(prefers-color-scheme: light)" />
-        <img src="https://github-readme-stats.vercel.app/api?username=mlainezdev&show_icons=true&theme=default" alt="Stats de mlainezdev" width="400"/>
+        <source srcset="https://github-readme-stats.vercel.app/api?username=mlainezdev&show_icons=true&theme=radical&locale=es" media="(prefers-color-scheme: dark)" />
+        <source srcset="https://github-readme-stats.vercel.app/api?username=mlainezdev&show_icons=true&theme=default&locale=es" media="(prefers-color-scheme: light)" />
+        <img src="https://github-readme-stats.vercel.app/api?username=mlainezdev&show_icons=true&theme=default&locale=es" alt="Stats de mlainezdev" width="400"/>
       </picture>
     </td>
     <td align="center">
       <picture>
-        <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=mlainezdev&theme=radical" media="(prefers-color-scheme: dark)" />
-        <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=mlainezdev&theme=default" media="(prefers-color-scheme: light)" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mlainezdev&theme=default" alt="GitHub Streak" width="400"/>
+        <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=mlainezdev&theme=radical&locale=es" media="(prefers-color-scheme: dark)" />
+        <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=mlainezdev&theme=default&locale=es" media="(prefers-color-scheme: light)" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mlainezdev&theme=default&locale=es" alt="GitHub Streak" width="400"/>
       </picture>
     </td>
   </tr>
@@ -35,13 +35,13 @@
     </td>
     <td align="center">
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlainezdev" alt="Top Langs" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlainezdev&locale=es" alt="Top Langs" width="100%"/>
       </p>
     </td>
   </tr>
 </table>
 
-<h2 align="center">💻 Favorite Languages</h2>
+<h2 align="center">💻 Mis lenguajes de interés</h2>
 
 <p align="center">
   <!-- Backend y APIs -->
@@ -62,16 +62,4 @@
   
 </p>
 
-
-
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mlainezdev&theme=dark)
-
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=mlainezdev&theme=github)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlainezdev&layout=compact)
-
-![mlainezdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=mlainezdev&show_icons=true&theme=radical)
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mlainezdev&theme=github-compact)
 
