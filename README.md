@@ -1,13 +1,16 @@
-<picture>
-  <source srcset="https://res.cloudinary.com/dmydsvqhk/image/upload/v1748145712/banner_noche_bi2fky.png" media="(prefers-color-scheme: dark)">
-  <source srcset="https://res.cloudinary.com/dmydsvqhk/image/upload/v1748145712/BANNER_DIA_pi3td7.png" media="(prefers-color-scheme: light)">
-  <img src="https://res.cloudinary.com/dmydsvqhk/image/upload/v1748145712/BANNER_DIA_pi3td7.png" alt="Banner de bienvenida">
-</picture>
-<picture>
-  <source srcset="https://res.cloudinary.com/dmydsvqhk/image/upload/v1748219495/Areas_noche_recorte_crg7jv.png" media="(prefers-color-scheme: dark)">
-  <source srcset="https://res.cloudinary.com/dmydsvqhk/image/upload/v1748219495/Areas_dia_Recorte_gkx19g.png" media="(prefers-color-scheme: light)">
-  <img src="https://res.cloudinary.com/dmydsvqhk/image/upload/v1748145712/BANNER_DIA_pi3td7.png" alt="Áreas de experiencia">
-</picture>
+<p align="center" style="margin:0; padding:0;">
+  <picture>
+    <source srcset="https://res.cloudinary.com/dmydsvqhk/image/upload/v1748145712/banner_noche_bi2fky.png" media="(prefers-color-scheme: dark)">
+    <source srcset="https://res.cloudinary.com/dmydsvqhk/image/upload/v1748145712/BANNER_DIA_pi3td7.png" media="(prefers-color-scheme: light)">
+    <img src="https://res.cloudinary.com/dmydsvqhk/image/upload/v1748145712/BANNER_DIA_pi3td7.png" alt="Banner de bienvenida" style="border-radius:16px; box-shadow:0 4px 16px #0002; margin-bottom:0;">
+  </picture>
+  <br>
+  <picture>
+    <source srcset="https://res.cloudinary.com/dmydsvqhk/image/upload/v1748219495/Areas_noche_recorte_crg7jv.png" media="(prefers-color-scheme: dark)">
+    <source srcset="https://res.cloudinary.com/dmydsvqhk/image/upload/v1748219495/Areas_dia_Recorte_gkx19g.png" media="(prefers-color-scheme: light)">
+    <img src="https://res.cloudinary.com/dmydsvqhk/image/upload/v1748219495/Areas_dia_Recorte_gkx19g.png" alt="Áreas de experiencia" style="border-radius:16px; box-shadow:0 4px 16px #0002; margin-top:0;">
+  </picture>
+</p>
 ## 🛠️ Tecnologías y herramientas
 
 <p align="center">
