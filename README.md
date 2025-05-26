@@ -33,6 +33,12 @@
 - 🧑‍💻 Control de versiones con **Git y GitHub**
 - ☁️ Experiencia básica en **Azure** y despliegue en la nube
 - 📦 Integración de servicios externos y **consumo de APIs de terceros**
+
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=mlainezdev&theme=dark" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=mlainezdev&theme=default" media="(prefers-color-scheme: light)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mlainezdev&theme=default" alt="Stats de mlainezdev" />
+</picture>
 ![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=mlainezdev&theme=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlainezdev&layout=compact)
 
