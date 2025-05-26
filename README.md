@@ -37,11 +37,14 @@
       <p align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlainezdev&locale=es" alt="Top Langs" width="100%"/>
       </p>
+      <picture>
+        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mlainezdev&theme=radical&locale=es" media="(prefers-color-scheme: dark)" />
+        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mlainezdev&theme=default&locale=es" media="(prefers-color-scheme: light)" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlainezdev&theme=default&locale=es" alt="Top Langs" width="100%"/>
+      </picture>
     </td>
   </tr>
 </table>
-
-![Snake animation](https://github.com/mlainezdev/mlainezdev/blob/output/github-contribution-grid-snake.svg)
 
 <h2 align="center">💻 Mis lenguajes de interés</h2>
 
