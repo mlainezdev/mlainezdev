@@ -41,6 +41,8 @@
   </tr>
 </table>
 
+![Snake animation](https://github.com/mlainezdev/mlainezdev/blob/output/github-contribution-grid-snake.svg)
+
 <h2 align="center">💻 Mis lenguajes de interés</h2>
 
 <p align="center">
