@@ -10,20 +10,38 @@
     <img src="https://res.cloudinary.com/dmydsvqhk/image/upload/v1748219495/Areas_dia_Recorte_gkx19g.png" alt="Áreas de experiencia">
   </picture>
 
-## 🛠️ Tecnologías y herramientas
+<h2 align="center">📈 My GitHub Activity</h2>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQL" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="40" />
-</p>
+<table width="100%" align = "center">
+  <tr>
+    <td align="center">
+      <picture>
+        <source srcset="https://github-readme-stats.vercel.app/api?username=mlainezdev&show_icons=true&theme=radical" media="(prefers-color-scheme: dark)" />
+        <source srcset="https://github-readme-stats.vercel.app/api?username=mlainezdev&show_icons=true&theme=default" media="(prefers-color-scheme: light)" />
+        <img src="https://github-readme-stats.vercel.app/api?username=mlainezdev&show_icons=true&theme=default" alt="Stats de mlainezdev" width="400"/>
+      </picture>
+    </td>
+    <td align="center">
+      <picture>
+        <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=mlainezdev&theme=radical" media="(prefers-color-scheme: dark)" />
+        <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=mlainezdev&theme=default" media="(prefers-color-scheme: light)" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mlainezdev&theme=default" alt="GitHub Streak" width="400"/>
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=mlainezdev&theme=github-compact" alt="Activity Graph" style="max-width:100%;height:auto;" width="450"/>
+    </td>
+    <td align="center">
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlainezdev" alt="Top Langs" width="100%"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
-## 🎯 Intereses
+<h2 align="center">💻 Favorite Languages</h2>
 
 <p align="center">
   <!-- Backend y APIs -->
@@ -44,29 +62,16 @@
   
 </p>
 
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=mlainezdev&theme=dark" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api?username=mlainezdev&theme=default" media="(prefers-color-scheme: light)" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mlainezdev&theme=default" alt="Stats de mlainezdev" />
-</picture>
+
+
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mlainezdev&theme=dark)
+
 ![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=mlainezdev&theme=github)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlainezdev&layout=compact)
 
 ![mlainezdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=mlainezdev&show_icons=true&theme=radical)
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-<!--
-**mlainezdev/mlainezdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mlainezdev&theme=github-compact)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
