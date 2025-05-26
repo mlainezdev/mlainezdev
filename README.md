@@ -43,7 +43,7 @@
   </tr>
 </table>
 
-<h2 align="center">💻 Mis lenguajes de interés</h2>
+<h2 align="center">💻 Mis Lenguajes de Interés</h2>
 
 <p align="center">
   <!-- Backend y APIs -->
