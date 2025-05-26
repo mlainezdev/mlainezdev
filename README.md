@@ -10,7 +10,7 @@
     <img src="https://res.cloudinary.com/dmydsvqhk/image/upload/v1748219495/Areas_dia_Recorte_gkx19g.png" alt="Áreas de experiencia">
   </picture>
 
-<h2 align="center">📈 My Actividad en GitHub</h2>
+<h2 align="center">📈 Mi Actividad en GitHub</h2>
 
 <table width="100%" align = "center">
   <tr>
